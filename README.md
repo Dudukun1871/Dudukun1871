@@ -1,4 +1,4 @@
-# Damien Coquillard | Data Engineer
+# Damien C. | Data Engineer
 
 Portfolio GitHub des projets réalisés dans le cadre de ma formation **Data Engineer**.  
 J’y documente des réalisations autour de la **modélisation de données**, des **bases SQL et NoSQL**, de l’**industrialisation de pipelines**, du **cloud**, du **streaming**, de l’**orchestration** et des **applications data / IA**.
